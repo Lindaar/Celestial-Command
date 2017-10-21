@@ -109,13 +109,13 @@
 #107# Membre
 #108# IA
 #109# Dupliquer vaisseau sélectionner
-#110# Définir cette faction comme allier
+#110# Définir cette faction comme alliée
 #111# Définir cette faction comme ennemi
 #112# Créer un vaisseau ennemi
 #113# Ajouter IA au vaisseau
 #114# Pilote Auto
 #115# PHYSIQUE
-#116# Supprimer vaisseau sélectionner
+#116# Supprimer vaisseau sélectionné
 #117# Désactiver mouvements orbitaux
 #118# Définir trajectoire de vol
 #119# Mode lancer de débris
@@ -234,7 +234,7 @@
 #232# a été acheté pour
 #233# Crédits insuffisants:
 #234# récupéré
-#235# Pas assez d'espace de stockage pour récupéré
+#235# Pas assez d'espace de stockage pour récupérer
 #236# Facteurs
 #237# Masse des étoiles
 #238# Masse des planètes
@@ -270,7 +270,7 @@
 #268# Si activé - sélectionnez votre vaisseau et cliquez avec le bouton droit de la souris pour envoyer un ordre de mouvement
 #269# Afficher la barre de vie
 #270# Afficher temporairement l'intégrité du vaisseau
-#271# Rotation locker
+#271# Bloquer la rotation
 #272# Aligner la rotation de la vue avec l'objet observé
 #273# Centrer la vue
 #274# Focaliser la vue sur le vaisseau sélectionné
@@ -396,7 +396,7 @@
 #394# Aucun vaisseau sélectionné
 #395# Vaisseau enregistré
 #396# Clic pour placer un vaisseau
-#397# Ctrl + Clic gauche: sélectionner une couleur
+#397# Ctrl + Clic gauche: prélever une couleur
 #398# Préréglages
 #399# Nom de fichier
 #400# existe déjà 
@@ -497,7 +497,7 @@
 #495# Station
 #496# Pas assez de CR
 #497# Prix
-#498# Mission a échoué
+#498# Echec de la mission
 #499# signal Faible
 #500# Retournez le vaisseau dans le système solaire ou le signal sera perdu dans les 60 secondes
 #501# Perte du signal
@@ -534,106 +534,106 @@ Vous pouvez faire tourner votre vaisseau avec les touches A et D. Essayez doucem
 Toutefois, prenez note que votre carburant est limité. Cette manœuvres basique du moteur consomme de l'hydrogène liquide. Votre montant actuel d'hydrogène liquide est affiché sur l'écran (en surbrillance par la flèche).
 #527# Pendant que la stabilisateur est actif, il va compenser la rotation en permanence, même lorsque vous n'avez pas vraiment besoin de le faire, ceci va donc augmenter la consomation du fuel. Donc, il peut être utile de désactiver le stabilisateur chaque fois que vous n'en avez pas besoin.
 
-Désactiver le stabilisateur en appuyant sur la touche de raccourci (R).
+Désactivez le stabilisateur en appuyant sur la touche de raccourci (R).
 #528# Maintenant, essayez de déplacer votre vaisseau un peu, à l'aide des touches W S Q E pour aller de l'avant, arrière, gauche et droite.
-#529# Maintenant un zoom arrière et d'observer la planète la plus proche et de ses environs.
+#529# Maintenant, effectuez un zoom arrière et observez la planète la plus proche et ses environs.
 
-Maintenant, vous avez probablement remarqué que votre vaisseau ne pas rester dans un seul endroit. Le vaisseau est en orbite autour de la planète voisine.
+Maintenant, vous avez probablement remarqué que votre vaisseau ne peut pas rester à un seul endroit. Le vaisseau est en orbite autour de la planète voisine.
 #530# en Dépit de la mécanique orbitale dans ce jeu, le mouvement est ici beaucoup plus simple que dans le monde réel.
 
-Essayons d'approcher de l'astéroïde le plus proche.
+Essayons d'approcher de l'astéroïde à proximité immédiate.
 Sélectionnez l'astéroïde en surbrillance en cliquant dessus.
-#531# Maintenant afficher la vitesse relative.
-#532# Avec une vitesse relative active, et que vous avez sélectionné un objet, vous allez voir deux flèches à proximité de votre vaisseau.
+#531# Maintenant affichez la vitesse relative.
+#532# Avec une vitesse relative active, et si vous avez sélectionné un objet, vous allez voir deux flèches à proximité de votre vaisseau.
 
 Flèche blanche - direction de l'objet sélectionné
 Flèche Orange - vecteur vitesse de votre vaisseau par rapport à l'objet sélectionné
-#533# Maintenant, afin d'approcher votre cible, de commencer à déplacer votre vaisseau.
+#533# Maintenant, afin d'approcher votre cible, commencez à déplacer votre vaisseau.
 
 Vous devez aligner la flèche orange et la flèche blanche.
-#534# Bonne. Ayant les deux flèches aligné signifie que votre vaisseau se déplace tout droit en direction de la cible.
+#534# Bien. Avoir les deux flèches alignées signifie que votre vaisseau se déplace tout droit en direction de la cible.
 
-Gardez un œil sur la distance et la vitesse relative à votre cible. Ne pas s'écraser sur elle.
+Gardez un œil sur la distance et la vitesse relative à votre cible. Ne vous écrasez pas sur elle.
 Une fois que vous vous approchez, ralentissez votre vaisseau jusqu'à ce que la flèche jaune devient très courte. Cela signifie que votre vitesse relative est presque à zéro.
 
-L'approche de la cible sélectionnée et d'arrêter votre vaisseau près d'elle.
-#535# Bonne. Essayez encore une fois pour un autre astéroïde.
+Approchez la cible sélectionnée et arrêtez votre vaisseau près d'elle.
+#535# Bien. Essayez encore une fois sur un autre astéroïde.
 #536# Déplacer votre vaisseau pour le marqueur de l'astéroïde.
-#537# Vous êtes l'obtention le coup de cela! Une fois de plus!
+#537# Vous commencez à prendre le coup de main! Une fois de plus!
 
-Déplacez votre vaisseau à l'souligné l'astéroïde.
+Déplacez votre vaisseau à l'astéroïde en surbrillance.
 #538# Parfait! Maintenant, vous savez comment aborder les objets à proximité.
-#539# Maintenant, nous allons mine de certaines ressources dans le but de les vendre et de gagner des crédits.
+#539# Maintenant, nous allons miner certaines ressources dans le but de les vendre et de gagner des crédits.
 
 Votre vaisseau est déjà équipé d'un laser minier. Pour l'activer, sélectionnez le laser minier et appuyez sur le bouton "Basculer" dans la fenêtre qui apparaît.
 
-Note qu'un laser minier, consomme de l'énergie qui est affiché dans le coin supérieur droit de l'écran pour désactiver le laser quand il n'est pas dirigé vers un astéroïde.
+Notez qu'un laser minier consomme de l'énergie, indiquée dans le coin supérieur droit de l'écran. Pensez à désactiver le laser quand il n'est pas dirigé vers un astéroïde.
 
-Maintenant la mienne, à proximité de l'astéroïde à l'aide de l'exploration de laser et de recueillir certaines ressources.
-#540# au Cours de l'extraction, vous verrez un indicateur qui montre le laser rendement courant.
-Remarque, plus le laser minier, obtient de l'astéroïde, le plus efficace, il devient.
+Maintenant, minez à proximité de l'astéroïde à l'aide de l'exploration de laser pour recueillir certaines ressources.
+#540# au Cours de l'extraction, vous verrez un indicateur qui montre le rendement courant du laser.
+Remarque: plus le laser minier est proche de l'astéroïde, plus il est efficace.
 
-Maintenant, ouvrez le fret de l'interface.
+Maintenant, ouvrez "fret" dans l'interface.
 #541# Dans ce mode, vous pouvez voir le contenu de n'importe quel conteneur de stockage sur votre vaisseau.
-Ici, vous voyez le carburant du vaisseau, de l'énergie et des ressources collectées.
+Ici, vous voyez le carburant du vaisseau, l'énergie et les ressources collectées.
 
-Vous pouvez transférer des ressources d'un récipient à l'autre par glisser-déposer. Droit maintenant, ce n'est pas nécessaire, il suffit donc de désactiver la cargaison à nouveau à l'interface.
+Vous pouvez transférer des ressources d'un récipient à l'autre par glisser-déposer. Actuellement, ce n'est pas nécessaire, il suffit donc de fermer "fret" à nouveau dans l'interface.
 #542# Une nouvelle station spatiale vient d'arriver dans le système d'étoile.
 
 Laissez quai de la gare et de ravitailler le vaisseau.
 Sélectionnez-le en surbrillance la station spatiale.
 #543# Demande d'autorisation pour l'amarrage.
-#544# La station vous réserve un gratuit port d'amarrage pour votre vaisseau.
+#544# La station vous réserve un port d'amarrage gratuit pour votre vaisseau.
 
-Approche désignés port d'amarrage et avec précision le toucher avec votre propre vaisseau du port d'amarrage.
-#545# Maintenant, ouvrez le panneau de négociation.
-#546# Dans cette fenêtre, recherchez la ligne "Hydrogène" et appuyez sur "Acheter". Après cela, sélectionnez la quantité désirée (par exemple 10) et de confirmer votre commande.
+Approchez le port d'amarrage désigné et touchez le avec précision à l'aide du port d'amarrage de votre propre vaisseau.
+#545# Maintenant, ouvrez le panneau de négoce.
+#546# Dans cette fenêtre, recherchez la ligne "Hydrogène" et appuyez sur "Acheter". Après cela, sélectionnez la quantité désirée (par exemple 10) et confirmez votre commande.
 
-Aussi, vous pouvez vendre des ressources collectées. Essayez de vendre votre extrait de minerais, et appuyez sur next (suivant) lorsque c'est terminé.
+Vous pouvez aussi vendre des ressources collectées. Essayez de vendre votre extrait de minerais, et appuyez sur next (suivant) lorsque c'est terminé.
 #547# Maintenant, nous allons tester une arme!
 
-Votre vaisseau ne dispose pas d'une arme, donc vous avez besoin pour développer votre vaisseau.
+Votre vaisseau ne dispose pas d'une arme, donc vous avez besoin de développer votre vaisseau.
 Plus tard, vous serez en mesure de construire des modules de vous-même, mais pour l'instant vous pouvez acheter de nouveaux modules de la station spatiale.
 
-Sélectionnez la station et appuyez sur le "chantier Naval". Une accumulation de menu apparaîtra.
+Sélectionnez la station et appuyez sur le "chantier Naval". Un ensemble de menu apparaîtra.
 #548# Dans le menu générer, sélectionnez une tourelle de la plate-forme.
 
-Vous verrez un certain nombre de points de fixation de votre vaisseau. Placer une tourelle n'importe où sur votre vaisseau, où vous voulez.
-#549# Maintenant, sélectionnez un coup de canon dans le menu générer et fixer sur le dessus de votre tourelle.
-#550# Bonne. Pour utiliser un canon, vous avez besoin de munitions.
+Vous verrez un certain nombre de points de fixation de votre vaisseau. Placez une tourelle n'importe où sur votre vaisseau, où vous voulez.
+#549# Maintenant, sélectionnez un canon dans le menu générer et fixez le sur le dessus de votre tourelle.
+#550# Bien. Pour utiliser un canon, vous avez besoin de munitions.
 
-Acheter des munitions à partir de la station en utilisant le "Commerce".
-#551# Après avoir acheté des munitions, vous devez vous connecter votre canon pour le conteneur de stockage de la tenue de vos munitions.
+Acheter des munitions à partir de la station en utilisant "Commerce".
+#551# Après avoir acheté des munitions, vous devez connecter votre canon au conteneur de stockage ou sont placées vos munitions.
 
 Ouvrir la ressource gestionnaire de connexion.
 #552# Dans ce mode, vous verrez des lignes qui représentent un flux de ressources.
 
-De nombreux appareils doivent être connectés à des conteneurs de stockage, afin de travailler. Les moteurs doivent être reliés à des réservoirs de carburant. Générateurs de bouclier doit être connecté à l'alimentation des caves etc.
+De nombreux appareils doivent être connectés à des conteneurs de stockage, afin de fonctionner. Les moteurs doivent être reliés à des réservoirs de carburant. Les générateurs de bouclier doivent être connectés à l'alimentation, etc.
 
-Maintenant, connectez votre canon pour le conteneur avec des munitions en tirant une ligne entre votre canon et les munitions de stockage. Commencez au point gris sur votre canon, puis déplacer vers le conteneur.
-#553# Maintenant, vous pouvez détacher de la gare.
+Maintenant, connectez votre canon au conteneur avec des munitions en tirant une ligne entre votre canon et les munitions en stockage. Commencez au point gris sur votre canon, puis déplacer vous vers le conteneur.
+#553# Maintenant, vous pouvez vous détacher de la station.
 
-Afin de la détacher, sélectionnez votre port d'accueil et appuyez sur accueil pour activer et désactiver le son panneau de contrôle.
-#554# Tourelles peuvent être actionnées manuellement ou vous pouvez activer le mode automatique.
+Afin de vous détacher, sélectionnez votre port d'accueil et appuyez sur accueil pour activer et désactiver son panneau de contrôle.
+#554# Les tourelles peuvent être actionnées manuellement ou vous pouvez activer le mode automatique.
 
-Nous allons essayer de la commande manuelle.
+Nous allons essayer la commande manuelle.
 Sélectionnez une tourelle et appuyez sur "commande Manuelle".
-Aussi, vous pouvez appuyer sur le bouton "Afficher la plage" afin de voir votre canon effectif de gamme.
+Vous pouvez également appuyer sur le bouton "Afficher la plage" afin de voir la gamme d'effet de  votre canon.
 #555# Essayez de faire plusieurs essais de prise de vue et appuyez sur suivant.
 #556# Félicitation! Vous avez terminé le tutoriel de base.
 
-Si vous avez besoin d'informations supplémentaires, consultez le guide des collectivités.
+Si vous avez besoin d'informations supplémentaires, consultez les guides de la communauté.
 #557# Vous êtes arrivés dans le système solaire, vous avez un petit vaisseau minier, un peu d'hydrogène dans les réservoirs de carburant, ce qui est suffisant pour un vol vers les astéroïdes et les stations les plus proches. Utilisez votre laser minier pour rassembler des ressources d'astéroïdes, et négocier leur prix de vente à proximité de la station.
 
 Modifiez votre vaisseau sur le chantier et accomplissez des missions dans le but d'améliorer votre réputation et pour accéder à de nouveaux modules.
 #558# Afficher les modules endommagés
-#559# Temporairement l'affichage des points de vie pour les modules endommagés sur le vaisseau actif
+#559# Afficher temporairement l'affichage des points de vie pour les modules endommagés sur le vaisseau actif
 #560# clic Droit
 #561# Annuler
 #562# clic Gauche
 #563# Réparation
 #564# Cible objets livrés à un point de destination
-#565# objets Cible n'est pas saisi avec une pince
+#565# L'objet cible n'est pas saisi avec une pince
 #566# Cible les objets ont une faible vitesse relative avec le point de destination
 #567# objets Cible n'est pas attaché à un vaisseau
 #568# Détruire la cible
@@ -655,7 +655,7 @@ Manuel de contrôle de désactiver ce mode.
 #583# Prix de Base
 #584# Sélectionnez le module à vendre
 #585# Dommage
-#586# Explosion radius
+#586# Rayon de l'explosion
 #587# Incendie retard
 #588# Recul de la force
 #589# kN
@@ -670,71 +670,71 @@ Manuel de contrôle de désactiver ce mode.
 #598# Pour construire. Assurez-vous que les points de connexion de ressources sont connectés aux conteneurs avec une ressource appropriée.
 #599# Utilisé pour extraire des ressources utiles des astéroïdes. Peut également être utilisé comme arme improvisée à portée rapprochée.
 #600# Il sera automatiquement décharger des ressources extraites dans des conteneurs sur le vaisseau.
-#601# Capables de cultiver des plantes alimentaires pour les membres de l'équipage. Nécessite de l'énergie pour fonctionner.
-#602# Cet appareil est capable de faire fondre la glace et en utilisant le procédé de l'électrolyse split obtenu des molécules d'eau sur les deux atomes d'hydrogène et d'un atome d'oxygène qui peut être utilisé comme carburant et le comburant pour un réactif de moteurs.
-#603# plate-forme de Base pour les armes. Capable de faire tourner le joint d'armes dans des directions différentes au sein de certains angles.
+#601# Permet de cultiver des plantes alimentaires pour les membres de l'équipage. Nécessite de l'énergie pour fonctionner.
+#602# Cet appareil est capable de faire fondre la glace en utilisant le procédé de l'électrolyse, qui sépare des molécules d'eau en deux atomes d'hydrogène et d'un atome d'oxygène, qui peuvent être utilisé comme carburant et comburant dans un réactif de moteurs.
+#603# Plate-forme de base pour les armes. Capable de faire tourner les armes dans des directions différentes selon certains angles.
 
 Peut être contrôlé manuellement ou en mode automatique.
-En mode automatique, il sera automatiquement attaquer des cibles précisées.
-#604# la Plupart des armes doit être placé sur ce module.
-#605# Important module qui vous permet de quai avec d'autres vaisseaux ou d'une des stations, en particulier s'ils appartiennent à d'autres factions.
-#606# vous Permet de détecter et de sélectionner les différents objets à l'intérieur de la plage spécifiée. Particulièrement utile si vous avez besoin de détecter les petits objets comme des débris ou de petits astéroïdes.
+En mode automatique, il attaquera automatiquement les cibles précisées.
+#604# la Plupart des armes doivent être placées sur ce module.
+#605# Important module qui vous permet de vous raccorder avec d'autres vaisseaux ou des stations, en particulier s'ils appartiennent à d'autres factions.
+#606# Permet de détecter et de sélectionner les différents objets à l'intérieur de la zone spécifiée. Particulièrement utile si vous avez besoin de détecter les petits objets comme des débris ou de petits astéroïdes.
 #607# Simple partie structurelle.
-#608# Peut être utilisé comme un stockage de solides ressources.
+#608# Peut être utilisé pour le stockage de ressources solides.
 #609# Consomme de l'uranium et génère de l'énergie.
-#610# Génère de l'énergie lorsque les panneaux dirigé sur une étoile.
-#611# Efficacité dépend de la distance et de l'angle d'une étoile.
-#612# Container qui peut stocker un liquide ou d'un gaz, tels que le carburant pour les moteurs.
-#613# Permet de collecter les débris de l'espace et automatiquement affiner dans les matériels utilisables.
-#614# Container qui peut stocker des cargaisons solides, tels que des minerais, de munitions ou de la nourriture.
-#615# bras Hydraulique qui permet de saisir divers objets dans l'espace, tels que des astéroïdes, des débris ou d'autres vaisseaux.
-#616# Cet appareil est capable de créer une sphère ou ellipsoïde autour de lui, ce qui permettra de protéger le vaisseau contre tout dommage.
+#610# Génère de l'énergie lorsque les panneaux sont dirigé vers une étoile.
+#611# L'efficacité dépend de la distance et de l'angle de l'étoile.
+#612# Container qui peut stocker un liquide ou un gaz, tels que le carburant pour les moteurs.
+#613# Permet de collecter les débris de l'espace et de les affiner automatiquement en des matériaux utilisables.
+#614# Container qui peut stocker des cargaisons solides, tels que des minerais, des munitions ou de la nourriture.
+#615# Bras hydraulique qui permet de saisir divers objets dans l'espace, tels que des astéroïdes, des débris ou d'autres vaisseaux.
+#616# Cet appareil est capable de créer une sphère ou un ellipsoïde autour de lui, ce qui permettra de protéger le vaisseau contre tout dommage.
 #617# Consomme de l'énergie lorsqu'elle est active.
 
-Consomme de l'énergie supplémentaire pour le blocage de l'unité de dommages.
+Consomme de l'énergie supplémentaire pour le blocage d'un projectile.
 
-La taille du champ de protection peut être changé. La consommation d'énergie dépend de la taille.
-#618# Cet appareil est capable d'émettre directionnelle ray des ondes gravitationnelles qui peut pousser un objet spécifique en direction spécifique.
+La taille du champ de protection peut être changé. La consommation d'énergie dépend également de la taille du bouclier.
+#618# Cet appareil est capable d'émettre des ondes gravitationnelles dans une direction qui peut pousser un objet spécifique dans une certaine direction.
 #619# Lorsqu'il est activé, faites glisser l'un des objets à l'intérieur du cercle blanc à l'aide de bouton gauche de la souris pour les déplacer dans n'importe quelle direction.
 #620# Permet de construire un vaisseau avec des pièces rotatives.
 #621# Permet de construire un vaisseau avec des parties mobiles.
-#622# Chimique moteur qui crée la poussée due à la combustion de l'oxygène et de l'hydrogène dans la chambre de combustion et d'échappement de la combustion des produits de notre de la buse.
+#622# Moteur chimique qui crée la poussée grâce à la combustion de l'oxygène et de l'hydrogène dans la chambre de combustion et l'échappement du produit de combustion par la buse.
 
 Pour fonctionner, doit être connecté à des réservoirs de carburant, de l'oxygène et de l'hydrogène.
 
-L'hydrogène utilisé comme combustible et de l'oxygène comme oxydant.
-#623# Permet la rotation d'un vaisseau en utilisant uniquement l'énergie.
-#624# Ce moteur nécessite le xenon gaz et de l'électricité. Son avantage par rapport à des moteurs chimiques, c'est qu'il ne nécessite que très peu de carburant, cependant, est beaucoup moins poussée. En conséquence, il est capable à travailler sans interruption pendant longtemps
-#625# Simple et bon marché de manœuvre moteur qui pousse sous pression d'hydrogène.
+L'hydrogène est utilisé comme combustible et l'oxygène comme oxydant.
+#623# Permet la rotation du vaisseau en utilisant uniquement l'énergie électrique.
+#624# Ce moteur nécessite le gaz xénon et de l'électricité. Son avantage par rapport à des moteurs chimiques, c'est qu'il ne nécessite que très peu de carburant. Cependant il fournit beaucoup moins de poussée. En conséquence, il est capable à travailler sans interruption pendant longtemps.
+#625# Simple et bon marché des moteurs de manoeuvre qui poussent sous pression d'hydrogène.
 
-Pour fonctionner, doit être raccordée au réservoir de carburant qui contient de l'hydrogène.
-#626# Un appareil capable de déformer un espace autour d'un vaisseau qui permet de voyager avec une vitesse beaucoup plus rapide que la vitesse de la lumière.
+Pour fonctionner, doit être raccordé au réservoir de carburant qui contient de l'hydrogène.
+#626# Un appareil capable de déformer l'espace autour d'un vaisseau qui permet de voyager avec une vitesse beaucoup plus élevée que la vitesse de la lumière.
 
 Il peut être utilisé dans un système d'étoiles pour voyager instantanément d'un point à un autre.
-#627# se Déplace chaque objet situé à l'intérieur d'un champ de force
+#627# Déplace chaque objet situé à l'intérieur du champ de force
 
-La taille de la courbure de champ peut être modifié
+La taille et la courbure de champ peut être modifié
 
-La consommation d'énergie dépend de la taille de la courbure de champ
+La consommation d'énergie dépend de la taille et de la courbure de champ.
 
-Si la courbure de champ va entrer en collision avec quelque chose, il sera déstabilisé et saut sera annulée.
+Si la courbure de champ va entrer en collision avec quelque chose, il sera déstabilisé et le saut sera annulée.
 #628# Doit être connecté à l'alimentation de stockage
-#629# Devez être connecté pour stockage avec des roquettes
-#630# Devez être connecté pour stockage avec des munitions
-#631# Capables de lancer l'auto-guidée de la torpille.
-Torpille sera ciblée dans l'objet qui a été sélectionné lors du lancement.
-Si aucun objet sélectionné, torpille sera lancé en unguided mode.
+#629# Doit être connecté à un stockage avec des roquettes
+#630# Doit être connecté à un stockage avec des munitions
+#631# Capables de lancer des torpilles auto-guidées.
+Torpille sera ciblée sur l'objet qui à été sélectionné lors du lancement.
+Si aucun objet n'est sélectionné, la torpille sera lancé en mode non-guidée.
 #632# Capables de lancer des missiles non guidés avec une cadence de feu élevée
-#633# Contient de l'énergie produite par les réacteurs ou des panneaux solaires. Tout appareil qui nécessite une alimentation doit être connecté
-#634# Le centre de contrôle de tout vaisseau, qui comprend la passerelle de commandement, de l'ordinateur principal et l'allocation des ressources hub
+#633# Contient de l'énergie produite par les réacteurs ou des panneaux solaires. Tout appareil qui nécessite une alimentation doit y être connecté
+#634# Le centre de contrôle de tout vaisseau, qui comprend la passerelle de commandement, l'ordinateur principal et le HUB d'allocation des ressources
 #635# Accumuler des points
 #636# Niveau Suivant
 #637# de réputation Requis
 #638# Effet Glow
 #639# Afficher l'arrière-plan
 #640# Fond noir
-#641# Mode de Debug
-#642# En mode de debug, lorsque vous rencontrerez une erreur, vous verrez une proposition pour nous envoyer une erreur. Cela nous aidera à corriger divers bugs beaucoup plus rapidement.
+#641# Mode Debug
+#642# En mode debug, lorsque vous rencontrerez une erreur, vous verrez une proposition pour nous envoyer une erreur. Cela nous aidera à corriger divers bugs beaucoup plus rapidement.
 #643# Réalisé sur l'étoile
 #644# Production actuelle
 #645# Production maximale
@@ -794,10 +794,10 @@ Nous recommandons de commencer avec le mode aérodynamique car il est plus convi
 #690# Capture
 #691# Densité
 #692# Densité de l'espace en mode aérodynamique. Définit la traînée d'air pendant le mouvement.
-#693# Produces ammo for light balistic cannons
+#693# Produit des munitions pour les canons ballistiques légers
 #694# (unused)
 #695# (unused)
-#696# Produces ammo for rocket launchers
+#696# Produit des munitions pour les lance-missiles
 #697# (unused)
 #698# Jump gate which is capable of warping the space around a ship which allows faster than light travel.
 
